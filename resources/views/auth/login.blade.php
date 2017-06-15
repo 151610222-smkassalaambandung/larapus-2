@@ -29,7 +29,7 @@
                         <div class="col-md-6 col-md-offset-4">
                             <div class="checkbox">
                                 <label>
-                                    {!! Form::checkbox('remember')!!} Ingat Saya
+                                    {!! Form::checkbox('remember')!!} Anda Ingat Saya
                                 </label>
                             </div>
                         </div>
